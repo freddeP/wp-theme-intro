@@ -1,0 +1,2 @@
+Local by Flywheel
+	Virtualization i bios måste vara enabled
